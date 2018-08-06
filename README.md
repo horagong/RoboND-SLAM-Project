@@ -17,7 +17,7 @@ $ roslaunch slam_bot mapping.launch
 $ roslaunch slam_bot rviz.launch
 
 
-# Mappint at my world
+# Mapping at my world
 
 1) Launch the gazebo world and slam robot.
 
